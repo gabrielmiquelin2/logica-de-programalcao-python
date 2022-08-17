@@ -1,11 +1,14 @@
-#+CONDICIONAIS
+#CONDICIONAIS
+#if, elif e else
+
 '''
-Ei, Você consegue me ajudar a mover essas caixas lá para fora hoje a tarde?
-Se eu estiver livre,sim.Mas, se não pede para meu irmão te ajudar
+E ae Gabriel, nora dar uma saída hoje?
+Se eu terminar meu trabalho aqui, eu consigo
 '''
 
-estout_livre = True
-if estout_livre == True:
-  print('Ok,posso ajudar sim!')
+trabalho_terminado = False
+if trabalho_terminado == True:      #if = SE
+    print('Opa!Bora dar uma saída')
 else:
-  print('Peça para meu irmão te ajudar')
+    print('Não posso sair agora!')
+
