@@ -27,7 +27,7 @@ valor_hora = salario_mensal / horas_trabalhadas_por_mes
 print valor_hora
 '''
 #AGORA ESSES MESMO CÓDIGO EM LINGUAGEM PYTHON
-salario_mensal = input('Qual é o seu salário mensal?')
+salario_mensal = input('Qual  o seu salário mensal?')
 horas_trabalhadas_por_mes = input('Quantas horas trabalhadas por mês?')
 valor_hora = int (salario_mensal) / int (horas_trabalhadas_por_mes)     #int = numero inteiro
 print (valor_hora)
