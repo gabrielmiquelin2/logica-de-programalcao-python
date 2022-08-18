@@ -21,7 +21,7 @@ eu devo calcular o fatorial do numero que for passado para o meu programa e o ex
 4. Qualéoresultado esperado?
 -O resultado esperado é que o fatorial do numero providenciado seja exibido
 
-5. Qualésequência de passosaser feitas para chegar ao
+5. Qual é sequência de passosaser feitas para chegar ao
 resultado esperado?
 #pseudocódigo
 input numero
