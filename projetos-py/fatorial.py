@@ -33,7 +33,7 @@ loop de 1 a numero
 print(fatorial)
 '''
 
-numero = int (input('Digite um número'))
+numero = int (input('Digite um numero'))
 if numero > 0:
     fatorial = 1
     for item in range (1,numero +1):
